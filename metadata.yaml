@@ -1,0 +1,27 @@
+_repo: Un-ano-en-quince-minutos-pieza-en-un-acto_52036
+_version: 0.0.1
+creator:
+  author:
+    agent_name: García González, Manuel
+    aliases:
+    - González, Manuel García y
+    - Garcia Gonzalez, Manuel
+    birthdate: 1828
+    deathdate: 1873
+    gutenberg_agent_id: '46639'
+    url: http://www.gutenberg.org/2009/agents/46639
+description: ''
+gutenberg_issued: '2016-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52036'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish drama'
+- GITenberg
+title: 'Un año en quince minutos: pieza en un acto'
+url: http://www.gutenberg.org/ebooks/52036
